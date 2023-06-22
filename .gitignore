@@ -1,0 +1,4 @@
+# Mac OS X seems to be autogenerating metadata files with the ._ prefix.
+# https://stackoverflow.com/a/68416513
+._*
+.DS_Store
